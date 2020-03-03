@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CasparClassLibraryOpg1", "CasparClassLibraryOpg1\CasparClassLibraryOpg1.csproj", "{A68999E1-36EE-4FCF-8110-6B04B3C3C5ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BogTest", "BogTest\BogTest.csproj", "{847FB6B7-B7EC-478F-BBCE-2C21F6B28639}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A68999E1-36EE-4FCF-8110-6B04B3C3C5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A68999E1-36EE-4FCF-8110-6B04B3C3C5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A68999E1-36EE-4FCF-8110-6B04B3C3C5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A68999E1-36EE-4FCF-8110-6B04B3C3C5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{847FB6B7-B7EC-478F-BBCE-2C21F6B28639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847FB6B7-B7EC-478F-BBCE-2C21F6B28639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{847FB6B7-B7EC-478F-BBCE-2C21F6B28639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{847FB6B7-B7EC-478F-BBCE-2C21F6B28639}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB801E97-4254-4BE2-BEF9-1D365E05D48C}
+	EndGlobalSection
+EndGlobal
